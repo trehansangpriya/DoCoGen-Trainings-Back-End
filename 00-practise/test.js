@@ -41,3 +41,17 @@
 
 // console.log('3')
 // console.log('End')
+
+
+// const add = (a,b,callback)=>{
+//     setTimeout(()=>{
+//         return callback(a+b)
+//     },2000)
+//     console.log('End')
+// }
+
+// add(3,4,(sum)=>{
+//     console.log(sum)
+// })
+
+// console.log('Stop')
